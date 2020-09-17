@@ -2,6 +2,6 @@
 "employees":[
     {"name":"John Berg", "employeeId":12345, "departmentId": 20},
     {"name":"Anna Schoultz", "employeeId":12346, "departmentId": 21},
-    {"name":"Ana Doe", "employeeId":12347, "departmentId": 22},
+    {"name":"Ana Doe", "employeeId":12347, "departmentId": 22}
 ]
 }
